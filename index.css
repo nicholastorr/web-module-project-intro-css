@@ -1,0 +1,39 @@
+
+
+
+.header-img{
+    border-radius: 25px;
+    width: 400px;
+    display:inline;
+}
+
+header {
+    display: flex;
+    align-items: center;
+}
+
+.Plan {
+    color: #FF764E;
+}
+
+.Learn {
+    color:#5ED3EB;
+}
+
+
+.Get {
+    color:#FFCD69;
+}
+
+
+
+.container nav p {
+    margin: 0 10px;
+    border: 1px solid lightgray;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 20px;
+    background-color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+}
